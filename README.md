@@ -20,4 +20,4 @@ Para el análisis de encuestas de satisfacción de los pasajeros se entregan dos
 •	Minutos de retraso para partir
 •	Minutos de retraso para llegar
 •	Satisfacción de la aerolínea
-![image](https://github.com/fernandarocha1/Tarea-analisis-de-negocios/assets/135287826/d2924df9-9414-4c28-aef2-41f1de111efb)
+
